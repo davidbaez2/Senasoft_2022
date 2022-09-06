@@ -1,0 +1,243 @@
+*{margin:0;padding:0;}
+
+body{
+    background-color: black;
+}
+
+
+.formulario {
+    width: 50%;
+    margin:2vh 45vh;
+    padding:3vh;
+    box-shadow: 0px 0px 10px white;
+}
+
+
+.identificacion{
+    margin:5vh 0vh;
+}
+.identificacion h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.identificacion h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.identificacion .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+.identificacion .select{
+    margin:2vh 50vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.contacto{
+    margin:5vh 0vh;
+}
+.contacto h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.contacto  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.contacto .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.geograficas{
+    margin:5vh 0vh;
+}
+.geograficas h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.geograficas  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.geograficas .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.enfoqueDiferencial{
+    margin:5vh 0vh;
+}
+.enfoqueDiferencial h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.enfoqueDiferencial  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.enfoqueDiferencial .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.enfoquePoblacional{
+    margin:5vh 0vh;
+}
+.enfoquePoblacionalh1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.enfoquePoblacional  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.enfoquePoblacional .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.socioEconomico{
+    margin:5vh 0vh;
+}
+.socioEconomico h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.socioEconomico  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.socioEconomico .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.escolaridad{
+    margin:5vh 0vh;
+}
+.escolaridad h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.escolaridad  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.escolaridad .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.accesoTecnologia{
+    margin:5vh 0vh;
+}
+.accesoTecnologia h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.accesoTecnologia  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.accesoTecnologia .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+.accesoTecnologia .select{
+    margin:2vh 50vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+
+.salud{
+    margin:5vh 0vh;
+}
+.salud h1{
+    margin:4vh 0vh;
+    text-align: center;
+    color: white;
+}
+.salud  h2{
+    margin:2vh 0vh;
+    color: white;
+}
+.salud .box-input{
+    margin:2vh 50vh;
+    padding:1vh;
+    font-size:3vh;
+    font-weight: 600;
+    box-shadow: 0px 1px 5px white;
+    border:1px solid white;
+    border-radius:0.3vh;
+}
+
+.accion{
+    display: inline-block;
+}
+.accion .boton{
+    width:10vh;
+}
